@@ -1,0 +1,32 @@
+$fontfamily_main: 'Oswald', sans-serif;
+$fontnavbar: 'Londrina Solid', cursive;
+$backgroundcolor: #EEF0FF;
+$backgroundcolor_home: #FFF2F2;
+
+nav{
+    background-color: #AA8888;
+    font-family: $fontnavbar;
+    color: white;
+}
+
+body{
+    background-color: $backgroundcolor;
+    font-family: $fontfamily_main;
+    color: #C30F0F
+}
+#home{
+    background-color: $backgroundcolor_home;
+}
+#greenText{
+    color: #46E62A;
+}
+#brownText{
+    color: #8A3838;
+}
+#redText{
+    color: #C30F0F;
+}
+
+footer{
+    background-color: #AA8888;
+}

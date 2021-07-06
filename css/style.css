@@ -1,0 +1,33 @@
+nav {
+  background-color: #AA8888;
+  font-family: "Londrina Solid", cursive;
+  color: white;
+}
+
+body {
+  background-color: #EEF0FF;
+  font-family: "Oswald", sans-serif;
+  color: #C30F0F;
+}
+
+#home {
+  background-color: #FFF2F2;
+}
+
+#greenText {
+  color: #46E62A;
+}
+
+#brownText {
+  color: #8A3838;
+}
+
+#redText {
+  color: #C30F0F;
+}
+
+footer {
+  background-color: #AA8888;
+}
+
+/*# sourceMappingURL=style.css.map */

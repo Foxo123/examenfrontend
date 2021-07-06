@@ -1,0 +1,19 @@
+{
+  "name": "FTED",
+  "version": "1.0.0",
+  "description": "frontend development site",
+  "main": "app.js",
+  "scripts": {
+    "all": "npm-run-all -p tsc sass browser-sync",
+    "tsc": "tsc",
+    "sass": "sass ./scss/:./css/ --watch",
+    "browser-sync": "browser-sync start --config bs-config.js",
+    "gc": "bash script.sh"
+  },
+  "keywords": [],
+  "author": "Tom Lengkeek",
+  "license": "ISC",
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
